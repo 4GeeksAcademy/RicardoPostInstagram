@@ -3,9 +3,11 @@
     margin: 0px;
     padding: 0px;
 }
+
 body {
     background-color: rgba(139, 216, 193, 0.788);
 }
+
 .pagina {
     margin: auto;
     border-radius: 20px;
@@ -17,6 +19,7 @@ body {
     justify-content: center;
     align-items: stretch;
 }
+
 .header {
     width: 100px;
     height: 10%;
@@ -24,7 +27,8 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
-span.icononutria {
+
+span.iconoNutria {
     height: 80%;
     width: 0%;
     align-self: center;
@@ -32,22 +36,26 @@ span.icononutria {
     margin: 10px 2px -15px 8px;
     padding-right: 25px;
 }
-span.nombrepagina {
+
+span.nombrePagina {
     height: 80%;
     width: 0%;
     align-self: flex-start;
     font-size: 1em;
     padding: 20px 10px 2px 10px;
 }
+
 span.puntos {
     margin: 8px 15px 0px 320px;
     align-self: center;
     font-size: 1.4em;
 }
+
 img {
     width: 100%;
     height: 90%;
 }
+
 .botones {
     width: 65%;
     height: 10%;
@@ -55,6 +63,7 @@ img {
     flex-direction: row;
     justify-content: flex-start;
 }
+
 span.like {
     height: 90%;
     width: 10%;
@@ -62,6 +71,7 @@ span.like {
     font-size: 1.3em;
     margin: 4px 4px 2px 8px;
 }
+
 span.coment {
     height: 90%;
     width: 10%;
@@ -69,6 +79,7 @@ span.coment {
     font-size: 1.3em;
     margin: 4px 4px 2px 8px;
 }
+
 span.share {
     height: 90%;
     width: 10%;
@@ -76,6 +87,7 @@ span.share {
     font-size: 1.3em;
     margin: 8px 4px 2px 8px;
 }
+
 span.save {
     height: 90%;
     width: 10%;
@@ -83,12 +95,14 @@ span.save {
     font-size: 1.3em;
     margin: 8px 20px 2px 270px;
 }
+
 p {
     align-self: center;
     padding-bottom: 5px;
     padding: 5px;
 
 }
+
 p.hastag {
     color: blue;
     padding-bottom: 20px;
